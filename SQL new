@@ -1,0 +1,16 @@
+This project aims to analyze "coffee sales data" to uncover key trends and insights. The focus is on understanding sales performance and profitability across different coffee products. 
+The analysis includes 
+1)Total sale analysis - 
+a) Calculate Total sales for each respective month
+b) Determine Month on month increase or decrease sale
+c) Calculate difference in sales between selected month and previous month
+
+2) Total order analysis-
+a) Calculate Total Number of order for each respective month
+b) Determine Month on month increase or decrease orders
+c) Calculate difference in orders between selected month and previous month
+
+3) Total quantity sold analysis-
+a) Calculate Total Number of order for each respective month
+b) Determine Month on month increase or decrease orders
+c) Calculate difference in orders between selected month and previous month
